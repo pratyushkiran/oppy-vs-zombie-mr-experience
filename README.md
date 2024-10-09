@@ -1,6 +1,6 @@
 # Oppy vs Zombie MR Experience in Unity Game Engine
 
-Sure! I'll break down the steps described in the documentation for setting up a Mixed Reality experience in Unity using the Meta SDK, specifically for Meta Quest 3 and Quest Pro. The goal of the experience is to enable passthrough of the physical environment, understand the scene (i.e., mapping of real-world objects), and allow interactions between virtual objects and the physical world using Unity's tools and Meta's SDK.
+The goal of the experience is to enable passthrough of the physical environment, understand the scene (i.e., mapping of real-world objects), and allow interactions between virtual objects and the physical world using Unity's tools and Meta's SDK.
 
 ### Steps Breakdown:
 
